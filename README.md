@@ -1,7 +1,7 @@
 # Starter Web Repo
     This is a starter Web Page.
 ## Introduction
-    Adding a line for rebasing. Adding again, from myFeature branch.
+    Updating after Stash.
 ## Purpose
     Purpose fulfilled.
 ## How to Contribute
