@@ -5,5 +5,5 @@
 ## Purpose
     Purpose fulfilled.
 ## How to Contribute
-    
+    Fork this repository and review.
 ## Copyright
